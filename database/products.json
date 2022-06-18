@@ -1,0 +1,92 @@
+{
+    "A000001": {
+        "id": "A000001",
+        "name": "Product name edit",
+        "description": "Description product edit",
+        "price": "1500 COP",
+        "createdAt": "18-06-2022 1:12 PM",
+        "state": true,
+        "lastUpdated": "18-06-2022 1:25 PM"
+    },
+    "A000002": {
+        "id": "A000002",
+        "name": "Capuccino",
+        "description": "Something",
+        "price": "8200 COP",
+        "createdAt": "18-06-2022 1:12 PM"
+    },
+    "A000003": {
+        "id": "A000003",
+        "name": "Croissant",
+        "description": "Something",
+        "price": "2400 COP",
+        "createdAt": "18-06-2022 1:12 PM"
+    },
+    "A000004": {
+        "id": "A000004",
+        "name": "Water",
+        "description": "Something",
+        "price": "3000 COP",
+        "createdAt": "18-06-2022 1:12 PM"
+    },
+    "A000005": {
+        "id": "A000005",
+        "name": "Coffe Express",
+        "description": "Something",
+        "price": "4700 COP",
+        "createdAt": "18-06-2022 1:12 PM"
+    },
+    "A000006": {
+        "id": "A000006",
+        "name": "Cold Coffe",
+        "description": "Something",
+        "price": "5400 COP",
+        "createdAt": "18-06-2022 1:12 PM"
+    },
+    "A000007": {
+        "id": "A000007",
+        "name": "Cold Coffe",
+        "description": "Something",
+        "price": "5400 COP",
+        "createdAt": "18-06-2022 1:12 PM"
+    },
+    "ABD77ABDJACSSD": {
+        "id": "ABD77ABDJACSSD",
+        "name": "Product name",
+        "description": "Description product",
+        "price": "3500 COP",
+        "createdAt": "18-06-2022 1:12 PM"
+    },
+    "ABD7CCCDJACSSD": {
+        "id": "ABD7CCCDJACSSD",
+        "name": "Product name",
+        "description": "Description product",
+        "price": "7500 COP",
+        "createdAt": "18-06-2022 1:12 PM"
+    },
+    "a95d19c9-a160-4698-9db9-599938566d82": {
+        "id": "a95d19c9-a160-4698-9db9-599938566d82",
+        "name": "Product name",
+        "description": "Description product",
+        "price": "7500 COP",
+        "state": true,
+        "createdAt": "18-06-2022 1:12 PM"
+    },
+    "cc0b11e2-efa1-43cf-9b6d-72af82b0f0f8": {
+        "id": "cc0b11e2-efa1-43cf-9b6d-72af82b0f0f8",
+        "name": "Product name",
+        "description": "Description product",
+        "price": "7500 COP",
+        "state": true,
+        "createdAt": "18-06-2022 1:12 PM"
+    },
+    "d575bf54-9927-4444-84b2-23af1662ddfd": {
+        "id": "d575bf54-9927-4444-84b2-23af1662ddfd",
+        "name": "Malteada de chocolate",
+        "description": "Malteada con crema de chocolate y fruta",
+        "price": "8500 COP",
+        "state": true,
+        "createdAt": "18-06-2022 1:12 PM",
+        "lastUpdated": "18-06-2022 1:26 PM"
+    }
+}
